@@ -18,13 +18,16 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Data Visualization** | Power BI, Excel |
-| **Data Analysis** | SQL, DAX, Power Query |
-| **Database Systems** | MySQL, SQL Server |
-| **Reporting & ETL** | Power BI Service, Dataflows |
-| **Other Tools** | Git & GitHub, Jupyter Notebook |
+### 🛠️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ---
 
