@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 - 🔭 Currently working on: **Interactive Power BI Dashboards & Data Insights Projects**
-- 🌱 Learning: **Advanced SQL & Data Warehousing**
+- 🌱 Learning: **SQL, Power BI and Python**
 - 📊 Interested in: **Business Intelligence, Data Visualization, and Reporting**
 - 💬 Ask me about: **Power BI | SQL | Data Analysis | Dashboard Design**
 - 📫 Reach me at: [giratkarsaloni1@gmail.com](mailto:giratkarsaloni1@gmail.com)
